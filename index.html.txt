@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> TUGAS GIT - 01 </title>
+	</head>
+	<body>
+		<p> Hai semuanya </p>
+	</body>
+</html>
